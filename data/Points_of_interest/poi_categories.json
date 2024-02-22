@@ -1,0 +1,38 @@
+{
+    "Things to Do": {
+        "Art Gallery": "art_gallery",
+        "Zoo": "zoo",
+        "Casino": "casino",
+        "Bowling": "bowling_alley",
+        "Museum": "museum",
+        "Movie Theatre": "movie_theater",
+        "Tourist Attractions": "tourist_attraction"
+    },
+    "Facilities/Services": {
+        "Gym": "gym",
+        "Laundry": "laundry",
+        "Library": "library",
+        "Police": "police",
+        "Post Office": "post_office",
+        "Gas Station": "gas_station"
+    },
+    "Food/Drinks": {
+        "Restaurant": "restaurant",
+        "Cafe": "cafe",
+        "Bakery": "bakery",
+        "Bar": "bar",
+        "Night Club": "night_club"
+    }, 
+    "Stores": {
+        "Supermarket": "supermarket",
+        "Clothing Store": "clothing_store",
+        "Convenience Store": "convenience_store",
+        "Department Store": "department_store",
+        "Electronics": "electronics_store",
+        "Home Goods": "home_goods_store",
+        "Liquor Store": "liquor_store",
+        "Shopping Mall": "shopping_mall"
+    }
+}
+
+
