@@ -16,6 +16,8 @@ considered when looking for a place to live: Accommodation type, Places of Inter
 
 ### A. Use of interface
 
+![](img/dashboard.png)
+
 **Home Page:**
 
 You land on the Home page where you can read about the data interface functionality.
